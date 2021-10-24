@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda&display=swap');
+  body{ 
+      background-image: url(./images/me2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+    display: flex;
+    font-family: 'Merienda';
+} 
+h2{
+    text-shadow:#000080 1px  1px; 
+    text-decoration-line: underline;
+    
+}
+
+ .img{
+    border: 2px white solid; 
+  height: 800x;
+    background-color: #000080;  
+    text-align: center; 
+    color: white; 
+    font-size: 25px; 
+    width: 450px;
+
+}  
+table{
+    margin-bottom: 1em;
+}
+.img img{
+    height: 200px;
+    width: auto; 
+    border: solid 4px rgb(12, 201, 235);
+    border-radius: 50%;
+}  
+p{
+    text-align: center; 
+  color: white;
+    font-size: 35px;   
+}
+.phn , .mail , .git ,.ig{ 
+    padding-top: 10px;
+    text-align: left; 
+    padding-left: 70px;
+} 
+i{   
+    padding-right: 7px;
+}
+
+.main{
+    margin-left: 3em;
+   
+}  
+progress[value]{ 
+    -webkit-appearance: none; 
+    appearance: none;
+    size: 10px;
+    background-color :aqua; 
+    
+}
+a:hover , i:hover{ 
+    
+    color:cyan;
+} 
+h2:hover{
+    color: darkblue;  
+   background-color: none; 
+   width: max-content; 
+ transform: translateY(-5px); 
+
+} 
+.link{ 
+    color: white;
+   text-align: left;  
+   text-decoration: none; 
+   padding-left: 1.4em;
+   
+} 
+table{
+    border: 3px solid black; 
+    font-size: 17px; 
+    font-style: bold;  
+    margin-bottom: 15px;
+    
+} 
+UL{
+    font-size: 15px;
+    font-weight: bolder;
+}

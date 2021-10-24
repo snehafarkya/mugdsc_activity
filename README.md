@@ -1,1 +1,1 @@
-# mugdsc_activity
+This is a sample text :D
